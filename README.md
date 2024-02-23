@@ -1,6 +1,6 @@
 # song-analyzer
 
-Scripts to analyze Discogs data for the most commonly used words in song titles. You can run these yourself, or see [my own summary](https://sundry.jerryorr.com/2024/2/22/song-title-analysis) of the results.
+Scripts to analyze Discogs data for the most commonly used words in song titles. You can run these yourself, or see [my own summary](https://sundry.jerryorr.com/2024/02/22/song-title-analysis) of the results.
 
 _This application uses Discogs’ API but is not affiliated with, sponsored or endorsed by Discogs. ‘Discogs’ is a trademark of Zink Media, LLC._
 
